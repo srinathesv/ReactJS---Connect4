@@ -1,0 +1,81 @@
+#ht{
+    text-align: center;
+    font-family:"Courier New", monospace;
+    font-size: 150%;
+}
+#lappy{
+    text-justify: auto;
+    font-size: 150%;
+    font-family:"Lucida Console", monospace;
+    padding: 5%;
+    margin-left: 20%;
+    margin-right: 10%;
+    text-align: left;
+  
+    
+}
+li{
+    /* list-style:lower-alpha; */
+    list-style:decimal-leading-zero;
+    color: black;
+
+}
+#two{
+    /* text-justify: auto; */
+    text-align: center;
+    font-size: 105%;
+    font-family:monospace;
+
+
+}
+p{
+    font-family:"Copperplate" ,fantasy;
+    
+    text-align: center;
+    font-size: 130%;
+    /* margin-left: -5%; */
+    color: black;
+
+}
+#keys{
+    margin-left: 33%;
+    color: black;
+}
+#keys button{
+    margin-left: 10%;
+    width: 20%;
+    height:20%;
+}
+h2{
+    text-align: center;
+    font-family:"Copperplate" ,fantasy;
+    color: black;
+}
+body{
+    background-color: #fff159;
+    background-image: url("bg4.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#three{
+    color: aliceblue;
+
+}
+.box {
+	padding:-50%;
+    margin-right: 40%;
+    margin-left: 8%;
+	/* display: -webkit-flex; */
+	/* display: -ms-flexbox; */
+	/* display: flex; */
+	/* -webkit-flex-wrap: wrap; */
+	/* -ms-flex-wrap: wrap; */
+	/* flex-wrap: wrap; */
+	/* -webkit-justify-content: center; */
+	justify-content: center;
+}
+
+.bg-3 {
+	/* background: #37474f; */
+	color: #fff;
+}
